@@ -1,0 +1,12 @@
+C:\Clenio\GIT\CursoDIO-Pessoa-API\src\main\java\one\digitalinnovation\personapi\exception\PersonNotFoundException.java
+C:\Clenio\GIT\CursoDIO-Pessoa-API\src\main\java\one\digitalinnovation\personapi\repositories\PersonRepository.java
+C:\Clenio\GIT\CursoDIO-Pessoa-API\src\main\java\one\digitalinnovation\personapi\dto\request\PersonDTO.java
+C:\Clenio\GIT\CursoDIO-Pessoa-API\src\main\java\one\digitalinnovation\personapi\entities\Person.java
+C:\Clenio\GIT\CursoDIO-Pessoa-API\src\main\java\one\digitalinnovation\personapi\entities\Phone.java
+C:\Clenio\GIT\CursoDIO-Pessoa-API\src\main\java\one\digitalinnovation\personapi\enums\PhoneType.java
+C:\Clenio\GIT\CursoDIO-Pessoa-API\src\main\java\one\digitalinnovation\personapi\services\PersonService.java
+C:\Clenio\GIT\CursoDIO-Pessoa-API\src\main\java\one\digitalinnovation\personapi\dto\request\PhoneDTO.java
+C:\Clenio\GIT\CursoDIO-Pessoa-API\src\main\java\one\digitalinnovation\personapi\PersonapiApplication.java
+C:\Clenio\GIT\CursoDIO-Pessoa-API\src\main\java\one\digitalinnovation\personapi\controllers\PersonController.java
+C:\Clenio\GIT\CursoDIO-Pessoa-API\src\main\java\one\digitalinnovation\personapi\dto\mapper\PersonMapper.java
+C:\Clenio\GIT\CursoDIO-Pessoa-API\src\main\java\one\digitalinnovation\personapi\dto\response\MessageResponseDTO.java

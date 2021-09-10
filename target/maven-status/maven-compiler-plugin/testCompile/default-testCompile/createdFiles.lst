@@ -1,0 +1,4 @@
+com\github\cleniogb\pessoa\mapper\PessoaMapperTest.class
+com\github\cleniogb\pessoa\services\PessoaServiceTest.class
+com\github\cleniogb\pessoa\utils\PessoaUtils.class
+com\github\cleniogb\pessoa\utils\TelefoneUtils.class
